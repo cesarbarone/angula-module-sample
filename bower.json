@@ -1,0 +1,30 @@
+{
+  "name": "angular-module-sample",
+  "description": "Simple module structure to create third part libs for angular",
+  "main": "dist/angular-module-sample.js",
+  "authors": [
+    "César Barone <cesar.bmcosta@gmail.com> (https://github.com/cesarbarone)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "module",
+    "sample"
+  ],
+  "homepage": "https://github.com/cesarbarone/angular-module-sample",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.x"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.x",
+    "angular-scenario": "1.x"
+  }
+}
