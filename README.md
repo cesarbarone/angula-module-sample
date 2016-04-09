@@ -14,3 +14,5 @@
     bower install
 ### To run tests
     gulp test
+### To generate dist files
+    gulp dist
