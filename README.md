@@ -1,6 +1,6 @@
 # angular-module-sample
 
-# A simple AngularJS module structure to create thirdy party libs
+# A simple AngularJS module structure to create thirdy party libs with CoffeeScript
 
 ## How to use
 
